@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/META-INF/context.xml</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/style.css</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/ActivatedAccountController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/utils/MyUtil.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/CreateArticleController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/registration.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/conf/persistence.xml</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/daos/exceptions/PreexistingEntityException.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/MainController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/models/ArticlesModel.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/js/scripts.js</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/blog-2-columns.html</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/elements-tab.html</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/TestServlet.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/css/bootstrap.css</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/GetArticleAdminController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/daos/CommentsJpaController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/daos/RegistrationDAO.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/LoginController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/user/createArticle.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/daos/exceptions/IllegalOrphanException.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/js/vendors/jquery-ui.js</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/errors/ArticleError.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/daos/exceptions/NonexistentEntityException.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/js/jquery_01.js</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/BlogProcessController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/authentication.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/index.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/LogoutController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/js/vendors/smoothscroll.js</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/daos/ArticlesDAO.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/entities/Registrations.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/admin/header.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/product-2-columns.html</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/AuthenticationController.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/utils/EmailUtil.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/errors/RegistrationError.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/error.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/login.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/entities/Comments.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/daos/MyEntityManager.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/header.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/models/BlogProcessViewModel.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/user/header.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/web/admin/index.jsp</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/entities/Articles.java</file>
+            <file>file:/D:/Spring2020_5/Lab231/Lab231_SimpleBlog/src/java/controllers/SignInController.java</file>
+        </group>
+    </open-files>
+</project-private>
